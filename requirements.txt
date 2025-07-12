@@ -1,0 +1,5 @@
+nltk==3.8.1
+pandas==2.2.2
+matplotlib==3.8.4
+scikit-learn==1.5.0
+numpy==1.26.4 # Added as it's used in the probability calculation
